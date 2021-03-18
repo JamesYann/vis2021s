@@ -48,7 +48,7 @@
   <text x="254" y="250" font-size="16" text-anchor="middle" fill="red">(256, 256)</text>
 
   <defs>
-    <path id="edgePath" d="M 384 220 A 155 155, 0, 1, 1, 128 220 A 90 90, 0, 1, 1, 175 175 A 155 155, 0, 0, 1, 340 175 A 90 90, 0, 1, 1, 384 220" stroke-width="10" stroke="blue" fill="none" opacity="0.3"/>
+    <path id="edgePath" d="M 384 220 A 155 155, 0, 1, 1, 128 220 A 90 90, 0, 1, 1, 175 175 A 155 155, 0, 0, 1, 340 175 A 90 90, 0, 1, 1, 384 220" stroke-width="10" stroke="blue" fill="orange" opacity="0.3"/>
   </defs>
 
   <use xlink:href="#edgePath"/>
